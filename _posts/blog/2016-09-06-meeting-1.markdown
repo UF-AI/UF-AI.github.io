@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Meeting #1"
+date: 2016-09-06 16:12:18
+author: Alex Clark
+categories: 
+- blog
+img: post01.jpg
+thumb: thumb01.jpg
+---
+
+# What Did We Do?
+
+Tuesday, 9/6, we had pizza, did a fun ice-breaker, and discussed our plans for this semester.
+
+You can check out the slides from today [here](https://docs.google.com/presentation/d/1s_KCcmBz4tkWGgxtwYKVahwtBA5_ROV4jTMKo_sCSbo/pub?start=false&loop=false&delayms=3000)

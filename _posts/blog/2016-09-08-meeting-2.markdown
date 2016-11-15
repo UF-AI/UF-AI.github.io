@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Meeting #2"
+date:   2016-09-08 20:54:46
+author: Alex Clark
+categories: 
+- blog
+- project
+img: post02.jpg
+thumb: thumb02.jpg
+---
+
+# What Did We Do?
+
+Today we discussed different projects to work on throughout fall and spring.
+
+Quick re-cap for those who didn't get a chance to come out to our project discussion meeting (or even if you haven't come out to any meetings at all yet!): we are in the process of choosing which AI projects to work on, so on Facebook you'll see project ideas in a poll. Go select one if you want to be on a project.
+
+## Slides
+
+[https://docs.google.com/presentation/d/1ng7z4qZ4VCCH0ocNJnDpbsCG6msSCd3lCzy8QmS3qmo/pub?start=false&loop=false&delayms=5000&slide=id.p](https://docs.google.com/presentation/d/1ng7z4qZ4VCCH0ocNJnDpbsCG6msSCd3lCzy8QmS3qmo/pub?start=false&loop=false&delayms=5000&slide=id.p)
+
+[hampden]: https://github.com/jekyll/jekyll

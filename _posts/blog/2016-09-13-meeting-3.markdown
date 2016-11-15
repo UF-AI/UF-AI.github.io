@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Meeting #3"
+date: 2016-09-13 16:52:32
+author: Alex Clark
+categories:
+- blog
+img: post03.jpg
+thumb: thumb03.jpg
+---
+
+# What Did We Do?
+
+We covered coursera session #1
+
+We covered the differences between supervised learning (and within it, classification versus regression problems) and unsupervised learning (and within it, clustering).
+
+Supplementary notes for all of the lectures can be found [here for Andrew Ng's documents](https://pythonandr.com/2015/11/25/supplementary-material-to-andrew-ngs-machine-learning-mooc/) and  [here for the regression analysis learning](http://www.holehouse.org/mlclass/01_02_Introduction_regression_analysis_and_gr.html).
+
+## Slides
+
+[https://docs.google.com/presentation/d/1lbBCNZD0QF8pA8hBrQPc7J6B5oNwB5DI5fcEfc6-TtU/pub?start=false&loop=false
+&delayms=3000](https://docs.google.com/presentation/d/1lbBCNZD0QF8pA8hBrQPc7J6B5oNwB5DI5fcEfc6-TtU/pub?start=false&loop=false
+               &delayms=3000)
+
+[hampden]: https://github.com/jekyll/jekyll

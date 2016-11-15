@@ -1,0 +1,59 @@
+---
+layout: index
+title: Home
+permalink: /
+---
+
+<div id="service">
+    <div class="container">
+        <div class="row centered mt">
+            <h3>Welcome to the official page of the University of Florida Artificial Intelligence Club</h3>
+            <p>
+                Founded in the Spring of 2016 as a special interest group within the Association for Computing Machinery (ACM), the AI Club aims to create both a learning environment and a community centered around artificial intelligence.
+            </p>
+        </div>
+        <br /><hr /><br />
+        <div class="row centered">
+            <div class="col-md-4">
+                <a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme-large a2">
+                <i class="fa fa-info-circle"></i>
+                About
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="{{ "/blog/" | prepend: site.baseurl }}" class="btn btn-theme-large a2">
+                <i class="fa fa-list"></i>
+                Blog
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="{{ "/calendar/" | prepend: site.baseurl }}" class="btn btn-theme-large a2">
+                <i class="fa fa-calendar"></i>
+                Calendar
+                </a>
+            </div>
+        </div>
+        <br /><hr /><br />
+        <div class="row centered">
+            <div class="col-md-6">
+                <h3>Where Do We Meet?</h3>
+                <div id="date-section">
+                    <h4>Tuesday (Learning Session) - Matherly Hall 018</h4><br />
+                    <h4>Thursday (Project Session) - Weil Hall 273</h4><br />
+                    <h4>6:15PM - 7:15PM</h4><br />
+                    <p>Our meeting locations are subject to change, check the Facebook page for event details</p>
+                </div>
+
+            </div>
+            <div class="col-md-6">
+                <iframe src="https://www.google.com/maps/d/embed?mid=1Je7cExIX656I2FY7IRdPKne0SlY" width="100%"
+                        height="350"></iframe>
+            </div>
+        </div>
+
+    </div><! --/container -->
+</div><! --/service -->
+
+<div class="container">
+{% include blog-list.html title="RECENT POSTS" limit=5 %}
+</div>
