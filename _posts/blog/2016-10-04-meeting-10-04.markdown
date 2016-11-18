@@ -18,6 +18,6 @@ Some good supplementary material that covers the same topics can be found at [ht
 
 ## Slides
 
-[https://docs.google.com/presentation/d/1V4jo15GCstUt_zvBEugtMpvMw2TV3OWIqk4c4HjudkA/](https://docs.google.com/presentation/d/1V4jo15GCstUt_zvBEugtMpvMw2TV3OWIqk4c4HjudkA/)
+[Gradient Descent Slides](https://docs.google.com/presentation/d/1V4jo15GCstUt_zvBEugtMpvMw2TV3OWIqk4c4HjudkA/)
 
 [hampden]: https://github.com/jekyll/jekyll

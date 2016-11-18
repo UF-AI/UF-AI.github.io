@@ -21,6 +21,6 @@ We created our first neural network model in Python using Keras. We created a se
 
 ## Slides
 
-[https://drive.google.com/drive/folders/0B37tPwl37zhOS3U4WkpWTVpINVE](https://drive.google.com/drive/folders/0B37tPwl37zhOS3U4WkpWTVpINVE)
+[Keras Google Doc](https://drive.google.com/drive/folders/0B37tPwl37zhOS3U4WkpWTVpINVE)
 
 [hampden]: https://github.com/jekyll/jekyll

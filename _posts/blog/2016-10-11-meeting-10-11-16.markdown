@@ -16,6 +16,6 @@ We started Logistic Regression from week 2 of the Coursera Machine Learning Cour
 
 ## Slides
 
-[https://docs.google.com/presentation/d/1aeQ4gulK6i_gVAeeSG2CsL_kgx5ycKqIA_Q1YM4eND0/](https://docs.google.com/presentation/d/1aeQ4gulK6i_gVAeeSG2CsL_kgx5ycKqIA_Q1YM4eND0/)
+[Logistic Regression Slides](https://docs.google.com/presentation/d/1aeQ4gulK6i_gVAeeSG2CsL_kgx5ycKqIA_Q1YM4eND0/)
 
 [hampden]: https://github.com/jekyll/jekyll

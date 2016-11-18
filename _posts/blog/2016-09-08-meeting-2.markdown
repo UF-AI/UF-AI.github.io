@@ -18,6 +18,6 @@ Quick re-cap for those who didn't get a chance to come out to our project discus
 
 ## Slides
 
-[https://docs.google.com/presentation/d/1ng7z4qZ4VCCH0ocNJnDpbsCG6msSCd3lCzy8QmS3qmo/pub?start=false&loop=false&delayms=5000&slide=id.p](https://docs.google.com/presentation/d/1ng7z4qZ4VCCH0ocNJnDpbsCG6msSCd3lCzy8QmS3qmo/pub?start=false&loop=false&delayms=5000&slide=id.p)
+[Google Doc](https://docs.google.com/presentation/d/1ng7z4qZ4VCCH0ocNJnDpbsCG6msSCd3lCzy8QmS3qmo/pub?start=false&loop=false&delayms=5000&slide=id.p)
 
 [hampden]: https://github.com/jekyll/jekyll

@@ -16,6 +16,6 @@ We went over the second part of the Logistic Regression tutorial from week 2 of 
 
 ## Slides
 
-[https://docs.google.com/presentation/d/1j-3UphG_5aRklcjOlGk-g3N5qnAZfn4GfPSQ_-reykM/](https://docs.google.com/presentation/d/1j-3UphG_5aRklcjOlGk-g3N5qnAZfn4GfPSQ_-reykM/)
+[Logistic Regression Part 2](https://docs.google.com/presentation/d/1j-3UphG_5aRklcjOlGk-g3N5qnAZfn4GfPSQ_-reykM/)
 
 [hampden]: https://github.com/jekyll/jekyll

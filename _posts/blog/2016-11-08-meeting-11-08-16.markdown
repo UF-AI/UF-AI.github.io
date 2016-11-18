@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Meeting 11/08/16"
+date: 	2016-11-08 20:48:22
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post13.png
+thumb: thumb13.png
+---
+
+# What Did We Do?
+
+Recap of how inputs are fed through a basic neural network and how we train these networks using backpropagation and how backpropagation algorithm works.
+
+## Supplementary Resources
+
+[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)   
+
+
+## Slides
+
+[Neural Network Slides](https://docs.google.com/presentation/d/1uJMu4NXhwVDeNYb4zwKlfyftLXN53n5GS76603-5fH8/)
+
+[hampden]: https://github.com/jekyll/jekyll

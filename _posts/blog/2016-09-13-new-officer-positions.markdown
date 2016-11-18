@@ -36,7 +36,4 @@ Next Tuesday, 9/20, we will cover topics in Coursera Week 1: Model Representatio
 
 
 
-
-
-
 [hampden]: https://github.com/jekyll/jekyll
