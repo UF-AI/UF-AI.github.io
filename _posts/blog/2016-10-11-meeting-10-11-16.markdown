@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Meeting 10/11/16"
+date: 	2016-10-11 17:56:14
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post07.png
+thumb: thumb07.png
+---
+
+# What Did We Do?
+
+We started Logistic Regression from week 2 of the Coursera Machine Learning Course.
+
+## Slides
+
+[https://docs.google.com/presentation/d/1aeQ4gulK6i_gVAeeSG2CsL_kgx5ycKqIA_Q1YM4eND0/](https://docs.google.com/presentation/d/1aeQ4gulK6i_gVAeeSG2CsL_kgx5ycKqIA_Q1YM4eND0/)
+
+[hampden]: https://github.com/jekyll/jekyll

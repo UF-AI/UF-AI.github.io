@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Meeting 9/20/16"
+date: 	2016-09-20 19:12:34
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post05.png
+thumb: thumb05.png
+---
+
+# What Did We Do?
+
+We went over model representation, linear regression, and cost functions (specifically the squared error function due to its importance for linear regression), while also learning about what training sets and contour plots are, and how to use important notations that appear throughout the Coursera course.
+
+## Slides
+
+[https://docs.google.com/presentation/d/1qX7rltRX7yeBwdSYoLZZGapIGktC619Sjdas1PtaUmw/](https://docs.google.com/presentation/d/1qX7rltRX7yeBwdSYoLZZGapIGktC619Sjdas1PtaUmw/)
+
+[hampden]: https://github.com/jekyll/jekyll

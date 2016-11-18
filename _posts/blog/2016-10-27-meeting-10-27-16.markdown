@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Meeting 10/27/16"
+date: 	2016-10-27 19:11:31
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post10.png
+thumb: thumb10.png
+---
+
+# What Did We Do?
+
+There was a Python workshop where we went over the basics in python and Data Science Libraries. This workshop was helpful was RC car project.
+
+## Supplementary Material
+
+[https://drive.google.com/file/d/0B37tPwl37zhON19kMWhEU29ydjQ/](https://drive.google.com/file/d/0B37tPwl37zhON19kMWhEU29ydjQ/)
+
+[hampden]: https://github.com/jekyll/jekyll

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Meeting 10/13/16"
+date: 	2016-10-14 11:54:09
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post08.png
+thumb: thumb08.png
+---
+
+# What Did We Do?
+
+It was a Project Session in which all the projects were discussed and teams were made.Each team discussed about their plans on how to communicate and do project.
+
+![Members of the Club Meet for Project Groups]({{ site.baseurl }}/assets/img/project/project_meeting.png)
+
+[hampden]: https://github.com/jekyll/jekyll

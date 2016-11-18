@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Meeting 10/04/16"
+date: 	2016-10-04 17:39:57
+author: Alex Clark
+categories:
+- blog
+- weekly meetings
+img: post06.png
+thumb: thumb06.png
+---
+
+# What Did We Do?
+
+We finished week one of the Coursera course. The primary topic covered was gradient descent, a mathematical formulation of it, how to think of it intuitively, and how it can be used with linear regression. 
+
+Some good supplementary material that covers the same topics can be found at [https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
+
+## Slides
+
+[https://docs.google.com/presentation/d/1V4jo15GCstUt_zvBEugtMpvMw2TV3OWIqk4c4HjudkA/](https://docs.google.com/presentation/d/1V4jo15GCstUt_zvBEugtMpvMw2TV3OWIqk4c4HjudkA/)
+
+[hampden]: https://github.com/jekyll/jekyll
