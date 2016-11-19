@@ -16,6 +16,6 @@ We went over model representation, linear regression, and cost functions (specif
 
 ## Slides
 
-[Regression and Model Slides](https://docs.google.com/presentation/d/1qX7rltRX7yeBwdSYoLZZGapIGktC619Sjdas1PtaUmw/)
+[Regression and Model Slides](https://docs.google.com/presentation/d/1qX7rltRX7yeBwdSYoLZZGapIGktC619Sjdas1PtaUmw/edit?usp=sharing)
 
 [hampden]: https://github.com/jekyll/jekyll

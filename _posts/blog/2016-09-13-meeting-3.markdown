@@ -19,7 +19,6 @@ Supplementary notes for all of the lectures can be found [here for Andrew Ng's d
 
 ## Slides
 
-[Supervised Learning](https://docs.google.com/presentation/d/1lbBCNZD0QF8pA8hBrQPc7J6B5oNwB5DI5fcEfc6-TtU/pub?start=false&loop=false
-               &delayms=3000)
+[Supervised Learning](https://docs.google.com/presentation/d/1lbBCNZD0QF8pA8hBrQPc7J6B5oNwB5DI5fcEfc6-TtU/edit?usp=sharing)
 
 [hampden]: https://github.com/jekyll/jekyll

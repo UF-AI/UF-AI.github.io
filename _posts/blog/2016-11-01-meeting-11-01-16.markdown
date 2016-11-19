@@ -24,6 +24,6 @@ We learnt about biological inspiration behind Artificial Neural Networks and wha
 
 ## Slides
 
-[Artificial Neural Network Slides](https://docs.google.com/presentation/d/1hCMVN9EN4Y-XjWIPwedXjzzne4QuIGH1rfMv8bWHkt4/)
+[Artificial Neural Network Slides](https://docs.google.com/presentation/d/1hCMVN9EN4Y-XjWIPwedXjzzne4QuIGH1rfMv8bWHkt4/edit?usp=sharing)
 
 [hampden]: https://github.com/jekyll/jekyll

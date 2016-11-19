@@ -21,6 +21,6 @@ Recap of how inputs are fed through a basic neural network and how we train thes
 
 ## Slides
 
-[Neural Network Slides](https://docs.google.com/presentation/d/1uJMu4NXhwVDeNYb4zwKlfyftLXN53n5GS76603-5fH8/)
+[Neural Network Slides](https://docs.google.com/presentation/d/1uJMu4NXhwVDeNYb4zwKlfyftLXN53n5GS76603-5fH8/edit?usp=sharing)
 
 [hampden]: https://github.com/jekyll/jekyll

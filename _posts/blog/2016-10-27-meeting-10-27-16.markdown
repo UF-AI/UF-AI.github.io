@@ -16,6 +16,6 @@ There was a Python workshop where we went over the basics in python and Data Sci
 
 ## Supplementary Material
 
-[Python Data Science Slides](https://drive.google.com/file/d/0B37tPwl37zhON19kMWhEU29ydjQ/)
+[Python Data Science Slides](https://drive.google.com/file/d/0B37tPwl37zhON19kMWhEU29ydjQ/view?usp=sharing)
 
 [hampden]: https://github.com/jekyll/jekyll
