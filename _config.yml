@@ -5,7 +5,7 @@ title: UF AI
 description: "The Artificial Intelligence Club At The University of Florida"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://UF-AI.github.io"
+url: "http://gatoraiclub.com"
 
 # Build settings
 markdown: kramdown
