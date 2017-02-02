@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 9/13/16"
+title: "Coursera Introduction"
 date: 2016-09-13 16:52:32
 author: Alex Clark
 categories:

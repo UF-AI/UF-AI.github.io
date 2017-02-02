@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 10/04/16"
+title: "Gradient Descent Intro"
 date: 	2016-10-04 17:39:57
 author: Alex Clark
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 11/01/16"
+title: "Neural Networks Intro"
 date: 	2016-11-01 18:43:45
 author: Alex Clark
 categories:
@@ -12,7 +12,7 @@ thumb: thumb11.png
 
 # What Did We Do?
 
-We learnt about biological inspiration behind Artificial Neural Networks and what they are used for .We watched parts of the Neural Network Week 4 of the Coursera course and the supplementary videos.
+We learned about biological inspiration behind Artificial Neural Networks and what they are used for. We watched parts of the Neural Network Week 4 of the Coursera course and the supplementary videos.
 
 ## Supplementary Resources
 

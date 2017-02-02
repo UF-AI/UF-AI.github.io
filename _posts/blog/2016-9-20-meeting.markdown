@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 9/20/16"
+title: "Linear Regression"
 date: 	2016-09-20 19:12:34
 author: Alex Clark
 categories:

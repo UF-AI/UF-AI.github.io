@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting 10/18/16"
+title: "Logistic Regression Pt. 2"
 date: 	2016-10-18 19:11:31
 author: Alex Clark
 categories:
