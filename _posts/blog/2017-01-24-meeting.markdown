@@ -1,0 +1,23 @@
+---
+layout: post
+title: "First GBM of 2017"
+date: 2017-01-24 18:12:04
+author: Alex Clark
+categories:
+- blog
+- General Body Meeting
+img: post14.png
+thumb: thumb14.png
+---
+
+# What Did We Do?
+
+We held UF Artificial Intelligence Club's first General Body Meeting of the semester in Matherly Hall Room 103.
+
+We discussed upcoming events the club will be holding, the basics of AI, other clubs available at UF, as well as available projects and the logistics to join a project team.
+
+Everyone with any interest in artificial intelligence was welcome! No previous experience with artificial intelligence was required.
+
+We had pizza and refreshments for all attendees!
+
+You can check out the slides from today [here](https://docs.google.com/presentation/d/1aGWaRnHC1z_5vjevO2gtEZ3n5_z9Lt3sQVVC9SjQ9vk/edit?usp=sharing)

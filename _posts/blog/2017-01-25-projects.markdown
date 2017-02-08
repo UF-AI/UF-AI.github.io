@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2017 Projects"
+date: 2017-01-25 16:42:05
+author: Alex Clark
+categories:
+- blog
+img: post15.png
+thumb: thumb15.png
+---
+
+# Projects for 2017
+
+There are three projects available this semester, each led by a graduate project manager. The projects are:    
+
+* Text generation by Srishti Mishra (srishtipmishra@gmail.com)
+* Reinforcement learning game by Shesh Mishra (sheshnath.mishra1990@gmail.com)
+* Voice controlled bot by Yash Jain (yjain1@ufl.edu)   
+
+To join a project, email the managers ASAP requesting to be on the team. Please only get involved if you will dedicate time throughout the semester. (approx. 1-3 hours a week).
