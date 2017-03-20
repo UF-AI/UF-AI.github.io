@@ -246,6 +246,19 @@ border-color: {{ site.colors.primary }};
 	margin-top: 60px;
 }
 
+.pb {
+	padding-bottom: 20px;
+}
+
+.pt {
+	padding-top: 20px;
+}
+
+.ptb {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 .hline {
 	border-bottom: 2px solid {{ site.colors.secondary }};
 }
