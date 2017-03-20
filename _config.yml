@@ -21,8 +21,8 @@ colors:  #in hex code if not noted else
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
   footer_links: "#1ABC9C"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -34,35 +34,27 @@ social:
 email: gatoraiclub@gmail.com
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
-  - name: John Henning
-    position: Co - President
-    img: JHenning.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
   - name: Nick Kroeger
-    position: Co - President
+    position: President
     img: NKroeger.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Robert Kruger
+  - name: Rohit Malhotra
     position: Vice President
-    img: RKruger.jpg
+    img: RMalhotra.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Luis Fernandes
-    position: Social Coordinator
+    position: Outreach Director
     img: LFern.jpg
     social:
       - title: envelope #use for email address
@@ -77,15 +69,15 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Susanne Chan
+  - name: Michael Ngo
     position: Secretary
-    img: SChan.jpg
+    img: MNgo.jpg
     social:
-      - title: envelope
+      - title: envelope #use for email address
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-    
+
 # Simple about for the footer
 about: "The Artificial Intelligence Club at The University of Florida aims to promote all things involving artificial
  intelligence!"
