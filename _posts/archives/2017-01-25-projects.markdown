@@ -4,7 +4,7 @@ title: "2017 Projects"
 date: 2017-01-25 16:42:05
 author: Alex Clark
 categories:
-- blog
+- archives
 img: post15.png
 thumb: thumb15.png
 ---

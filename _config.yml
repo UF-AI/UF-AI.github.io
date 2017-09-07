@@ -5,12 +5,12 @@ title: UF AI
 description: "The Artificial Intelligence Club At The University of Florida"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://gatoraiclub.com"
+url: "https://ufai.xyz"
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Archives page) is
 
 colors:  #in hex code if not noted else
   primary: "#1ABC9C" #"#F70031"
@@ -37,9 +37,9 @@ email: gatoraiclub@gmail.com
 
 # Members information. Shown on About page.
 members:
-  - name: Nick Kroeger
+  - name: Mason Rawson
     position: President
-    img: NKroeger.jpg
+    img: MRawson.jpg
     social:
       - title: envelope #use for email address
         url: mailto:name@domain.com
@@ -61,16 +61,16 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Alex Clark
-    position: Webmaster
-    img: AClark.jpg
+  - name: Christian Marin
+    position: Technical Director
+    img: CMarin.jpg
     social:
       - title: envelope
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
   - name: Michael Ngo
-    position: Secretary
+    position: Operations Director
     img: MNgo.jpg
     social:
       - title: envelope #use for email address

@@ -4,7 +4,7 @@ title: "Project Session Intro"
 date: 	2016-10-14 11:54:09
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post08.png
 thumb: thumb08.png

@@ -4,7 +4,7 @@ title: "Linear Regression"
 date: 	2016-09-20 19:12:34
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post05.png
 thumb: thumb05.png

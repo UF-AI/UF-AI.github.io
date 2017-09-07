@@ -4,7 +4,7 @@ title: "New Officer Positions"
 date: 2016-09-13 17:08:32
 author: Alex Clark
 categories:
-- blog
+- archives
 - officer applications
 img: post04.png
 thumb: thumb04.png

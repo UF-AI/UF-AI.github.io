@@ -4,7 +4,7 @@ title: "Keras Python Tutorial"
 date: 	2016-11-03 19:11:13
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post12.png
 thumb: thumb12.png

@@ -1,11 +1,11 @@
 /*	################################################################
 
 	Author: R. Alex Clark
-	URL: http://gatoraiclub.com
+	URL: http://ufai.xyz
 
 	Project Name: Gator Ai Club Website
 	Version: 1.0
-	URL: http://gatoraiclub.com
+	URL: http://ufai.xyz
 
 ################################################################# */
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
@@ -190,7 +190,7 @@ border-color: {{ site.colors.primary }};
 	font-size: 1.8em;
 	font-weight: 700;
 	padding: 18px;
-	width: 100%;
+	width: 90%;
 }
 
 .btn-theme-large i {
@@ -239,11 +239,11 @@ border-color: {{ site.colors.primary }};
 }
 
 .mb {
-	margin-bottom: 60px;
+	margin-bottom: 50px;
 }
 
 .mt {
-	margin-top: 60px;
+	margin-top: 50px;
 }
 
 .pb {
@@ -274,8 +274,8 @@ border-color: {{ site.colors.primary }};
 #headerwrap {
 	background-color: {{ site.colors.primary }};
 	min-height: 0px;
-	padding-top: 150px;
-	padding-bottom: 50px;
+	padding-top: 100px;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
@@ -322,7 +322,7 @@ border-color: {{ site.colors.primary }};
 	display:block;
 }
 
-.blog-list {
+.archives-list {
 	padding:0 !important;
 	margin:0 !important;
 }
@@ -331,18 +331,18 @@ border-color: {{ site.colors.primary }};
 .portfolio-item p {margin:0px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
-.blog-list-item p {margin:0px 0 30px;}
-.blog-list-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
+.archives-list-item p {margin:0px 0 30px;}
+.archives-list-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
-.blog-list-item .dmbutton {
+.archives-list-item .dmbutton {
 	width: 100%;
 }
 
-.blog-list-item .dmbutton:hover {
+.archives-list-item .dmbutton:hover {
 	background-color: {{ site.colors.primary }};
 }
 
-.blog-list-title {
+.archives-list-title {
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -563,7 +563,7 @@ csmall {
 	padding-bottom: 0px;
 }
 
-/* Blog Page */
+/* Archives Page */
 .popular-posts {
 	margin: 0px;
 	padding-left: 0px;

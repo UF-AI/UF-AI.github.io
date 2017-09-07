@@ -21,9 +21,9 @@ permalink: /
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="{{ "/blog/" | prepend: site.baseurl }}" class="btn btn-theme-large a2">
+                <a href="{{ "/archives/" | prepend: site.baseurl }}" class="btn btn-theme-large a2">
                 <i class="fa fa-list"></i>
-                Blog
+                Archives
                 </a>
             </div>
             <div class="col-md-4">
@@ -47,10 +47,10 @@ permalink: /
                         height="350"></iframe>
             </div>
         </div>
-
+        
     </div><! --/container -->
 </div><! --/service -->
 
 <div class="container">
-{% include blog-list.html title="RECENT POSTS" limit=5 %}
+{% include archives-list.html title="RECENT POSTS" limit=5 %}
 </div>

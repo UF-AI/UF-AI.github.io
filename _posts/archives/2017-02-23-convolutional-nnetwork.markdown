@@ -4,7 +4,7 @@ title: "Convolutional Neural Networks for Image Recognition"
 date: 2017-02-23 19:42:18
 author: Alex Clark
 categories:
-- blog
+- archives
 img: CNN.jpg
 thumb: thumbCNN.jpg
 ---

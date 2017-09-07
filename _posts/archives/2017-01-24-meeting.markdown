@@ -4,7 +4,7 @@ title: "First GBM of 2017"
 date: 2017-01-24 18:12:04
 author: Alex Clark
 categories:
-- blog
+- archives
 - General Body Meeting
 img: post14.png
 thumb: thumb14.png

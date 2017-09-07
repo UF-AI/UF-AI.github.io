@@ -4,7 +4,7 @@ title: "Titanic Dataset Project"
 date: 2017-02-07 17:29:39
 author: Alex Clark
 categories:
-- blog
+- archives
 img: post16.png
 thumb: thumb16.png
 ---

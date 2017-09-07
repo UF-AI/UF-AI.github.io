@@ -4,7 +4,7 @@ title: "Gradient Descent Intro"
 date: 	2016-10-04 17:39:57
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post06.png
 thumb: thumb06.png

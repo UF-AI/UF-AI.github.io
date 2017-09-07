@@ -4,7 +4,7 @@ title: "Basic Backpropagation"
 date: 	2016-11-08 20:48:22
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post13.png
 thumb: thumb13.png

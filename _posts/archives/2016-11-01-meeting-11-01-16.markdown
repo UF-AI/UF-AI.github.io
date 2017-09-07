@@ -4,7 +4,7 @@ title: "Neural Networks Intro"
 date: 	2016-11-01 18:43:45
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post11.png
 thumb: thumb11.png

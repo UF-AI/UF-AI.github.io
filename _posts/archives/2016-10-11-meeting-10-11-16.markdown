@@ -4,7 +4,7 @@ title: "Logistic Regression"
 date: 	2016-10-11 17:56:14
 author: Alex Clark
 categories:
-- blog
+- archives
 - weekly meetings
 img: post07.png
 thumb: thumb07.png

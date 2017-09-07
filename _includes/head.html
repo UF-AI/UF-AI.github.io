@@ -2,9 +2,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="{{ "/assets/ico/favicon.ico" | prepend: site.baseurl }}">
+    <meta name="description"content="UF AI Club serves to teach the community about AI algorithms and techniques, their applications to a variety of real-world problems, and the relevance of AI in industry and academia.">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico?">
+
+    <meta content="{{ site_url }}" property="og:site_name">
+    {% if page.title %}
+      <meta content="{{ page_url }}" property="og:page_name">
+    {% endif %}
+    <meta content="website" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta content="{{ site.url }}/assets/img/logo.png" property="og:image">
 
     <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
@@ -16,11 +23,8 @@
     <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
     <link href="{{ "/assets/css/animate.min.css" | prepend: site.baseurl }}" rel="stylesheet">
 
-    
-    
     <!-- Custom CSS -->
     <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">-->
-
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->

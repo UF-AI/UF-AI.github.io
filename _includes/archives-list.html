@@ -2,14 +2,14 @@
         <div class="row centered">
             {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         </div>
-        <div class="blog-list">
-            {% for post in site.categories['blog'] limit:include.limit %}
+        <div class="archives-list">
+            {% for post in site.categories['archives'] limit:include.limit %}
             <div class="row">
-                <div class="col-xs-offset-1 col-xs-10 blog-list-item">
+                <div class="col-xs-offset-1 col-xs-10 archives-list-item">
                     <a href="{{  post.url | prepend: site.baseurl }}" class="dmbutton a2"
                        data-animate="fadeInUp">
                        <div class="col-sm-3 hidden-xs pull-left">
-                            <img src="{{ "/assets/img/blog/thumbs/" | prepend: site.baseurl }}{{ post.thumb }}">
+                            <img src="{{ "/assets/img/archives/thumbs/" | prepend: site.baseurl }}{{ post.thumb }}">
                         </div>
                         <h4 class="col-sm-6">{{ post.title }}</h4>
                         <div class="col-sm-3">
