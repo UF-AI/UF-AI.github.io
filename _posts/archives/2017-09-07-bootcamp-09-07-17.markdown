@@ -1,0 +1,21 @@
+---
+layout: post
+title: "UFAI Overview and Types of AI"
+date: 2017-09-07 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot01.jpg
+thumb: bootthumb01.jpg
+---
+
+# Summary
+
+For our first GBM and UFAI Bootcamp introduction, we presented our mission as a club and information on how prospective members can get involved in the UFAI communtiy. We also provided an overview of where and how artificial intelligence, computer science, and data science all piece together to solve the challenges faced in these fields today.
+
+## Slides
+
+[UFAI Overview](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAAtJck-5a9-UtuiWYs7wvEXa/ufaiOverview.pdf?dl=0)
+
+[Types of AI Slides](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAA1Sh-9Xgehz0lbdp4R7wbEa/Types%20of%20AI.pdf?dl=0)

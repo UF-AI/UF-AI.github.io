@@ -5,7 +5,7 @@ date: 	2016-11-01 18:43:45
 author: Alex Clark
 categories:
 - archives
-- weekly meetings
+- Weekly Meetings
 img: post11.png
 thumb: thumb11.png
 ---
@@ -16,10 +16,10 @@ We learned about biological inspiration behind Artificial Neural Networks and wh
 
 ## Supplementary Resources
 
-[MIT Lectures](https://www.youtube.com/watch?v=uXt8qF2Zzfo)   
-[TED Talk](https://www.youtube.com/watch?v=n-YbJi4EPxc)  
-[NN Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)   
-[Intro to NN & Backpropagation](https://www.youtube.com/watch?v=DG5-UyRBQD4)   
+[MIT Lectures](https://www.youtube.com/watch?v=uXt8qF2Zzfo)
+[TED Talk](https://www.youtube.com/watch?v=n-YbJi4EPxc)
+[NN Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+[Intro to NN & Backpropagation](https://www.youtube.com/watch?v=DG5-UyRBQD4)
 
 
 ## Slides

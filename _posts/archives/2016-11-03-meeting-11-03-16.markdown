@@ -5,7 +5,7 @@ date: 	2016-11-03 19:11:13
 author: Alex Clark
 categories:
 - archives
-- weekly meetings
+- Weekly Meetings
 img: post12.png
 thumb: thumb12.png
 ---
@@ -16,7 +16,7 @@ We created our first neural network model in Python using Keras. We created a se
 
 ## Supplementary Resources
 
-[Keras Library](https://keras.io/)   
+[Keras Library](https://keras.io/)
 
 
 ## Slides

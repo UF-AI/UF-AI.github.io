@@ -5,7 +5,7 @@ date: 	2016-09-20 19:12:34
 author: Alex Clark
 categories:
 - archives
-- weekly meetings
+- Weekly Meetings
 img: post05.png
 thumb: thumb05.png
 ---

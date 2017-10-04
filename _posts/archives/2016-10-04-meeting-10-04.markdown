@@ -5,14 +5,14 @@ date: 	2016-10-04 17:39:57
 author: Alex Clark
 categories:
 - archives
-- weekly meetings
+- Weekly Meetings
 img: post06.png
 thumb: thumb06.png
 ---
 
 # What Did We Do?
 
-We finished week one of the Coursera course. The primary topic covered was gradient descent, a mathematical formulation of it, how to think of it intuitively, and how it can be used with linear regression. 
+We finished week one of the Coursera course. The primary topic covered was gradient descent, a mathematical formulation of it, how to think of it intuitively, and how it can be used with linear regression.
 
 Some good supplementary material that covers the same topics can be found at [https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression/)
 

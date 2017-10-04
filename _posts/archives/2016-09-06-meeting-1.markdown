@@ -3,7 +3,7 @@ layout: post
 title: "First Meeting!"
 date: 2016-09-06 16:12:18
 author: Alex Clark
-categories: 
+categories:
 - archives
 img: post01.jpg
 thumb: thumb01.jpg

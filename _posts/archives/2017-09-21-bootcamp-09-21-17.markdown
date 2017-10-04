@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Machine Learning and Modern Problems"
+date: 2017-09-21 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot02.jpg
+thumb: bootthumb02.jpg
+---
+
+# Summary
+
+In our second UFAI Bootcamp session, we delivered an overview of different types of technical problems in machine learning and some common approaches to solving them. We also presented some context for applciations of these techniques with a focus on computer vision.
+
+## Slides
+
+[Overview of Machine Learning](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAD8pY9At-OG-EkgKYDbo0nCa/Overview%20of%20ML.pdf?dl=0)
+
+[Common Modern Problems](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AADY1oFDnmBO-rAu_17cd_BCa/Common%20Modern%20Problems.pdf?dl=0)

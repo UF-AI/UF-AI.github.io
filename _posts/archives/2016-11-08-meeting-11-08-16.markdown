@@ -5,7 +5,7 @@ date: 	2016-11-08 20:48:22
 author: Alex Clark
 categories:
 - archives
-- weekly meetings
+- Weekly Meetings
 img: post13.png
 thumb: thumb13.png
 ---
@@ -16,7 +16,7 @@ Recap of how inputs are fed through a basic neural network and how we train thes
 
 ## Supplementary Resources
 
-[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)   
+[Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 
 ## Slides

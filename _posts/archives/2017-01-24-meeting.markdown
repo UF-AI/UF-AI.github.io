@@ -5,7 +5,7 @@ date: 2017-01-24 18:12:04
 author: Alex Clark
 categories:
 - archives
-- General Body Meeting
+- Weekly Meetings
 img: post14.png
 thumb: thumb14.png
 ---

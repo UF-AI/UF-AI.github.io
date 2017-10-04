@@ -307,8 +307,8 @@ border-color: {{ site.colors.primary }};
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 30px;
-	margin: 30px 0px 30px 0px !important;
+	padding-top: 20px;
+	margin: 20px 0px 20px 0px !important;
 	text-align: center;
 }
 
@@ -607,6 +607,19 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
+
+/* Home Page */
+
+/* Googgle Maps */
+.gm-overlay {
+	background:transparent;
+	position:relative;
+	width:100%x; /* your iframe width */
+	height:350px; /* your iframe height */
+	top:350px; /* your iframe height */
+	margin-top:-350px; /* your iframe height */
+}
+
 /* Animations */
 
 /* Sweep To Bottom */
