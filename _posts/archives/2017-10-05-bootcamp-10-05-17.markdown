@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Neural Networks"
+date:   2017-10-05 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot03.jpg
+thumb: bootthumb03.jpg
+---
+
+# Summary
+
+UFAI Bootcamp Episode 3: a breakdown of neural networks. This session builds upon the idea of a single perceptron to construct a concept of a network and to explain its associated functions and behaviors. After a conceptual overview, we dive into an example application in Python using Keras.
+
+## Slides/Materials
+
+[Neural Networks](https://drive.google.com/open?id=1Y7Uodu156jZQIws8jtUf4h9m_3oSoFAoBXYb91pW5xM)
+
+[Code](https://drive.google.com/open?id=0B_KcZO759g2vZERxRG1JenhMR1k)
+
+[Data](https://drive.google.com/open?id=0B_KcZO759g2vWkNHN0FodWZIVE0)
