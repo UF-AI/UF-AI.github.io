@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Support Vector Machines"
+date:   2017-10-26 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot04.jpg
+thumb: bootthumb04.jpg
+---
+
+# Summary
+
+For this bootcamp meeting, we delivered a brief overview of what Support Vector Machines are and how they are used. We proceeded to code up a demonstration leveraging scikit learn and matpllotlib ibraries to demonstrate how to fit an SVM to data to make classification predictions.
+
+## Slides/Materials
+
+[Support Vector Machines](https://docs.google.com/presentation/d/1JefaMbFmBgTsH4Ti7WPPJzOOhT0yAFa5uoUxWsYNisM/edit#slide=id.g35f391192_00)
+
+[Sample Code](https://github.com/UF-AI/Bootcamp/blob/master/SVM%2BCode.ipynb)
