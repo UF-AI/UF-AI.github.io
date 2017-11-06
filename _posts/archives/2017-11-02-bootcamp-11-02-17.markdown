@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Genetic Programming"
+date:   2017-11-02 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot05.jpg
+thumb: bootthumb05.jpg
+---
+
+# Summary
+
+This bootcamp session introduced another technique in the artificial inntelligence toolkit: genetic programming. Learn how programs can be bred to evolve and yield refined models better suited to solve a given task than their ancestors.
+
+## Slides/Materials
+
+[Genetic Programming](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AACTkZOQgEP1lGzYCwENbjJ6a/algorithms?dl=0&preview=GP.zip)

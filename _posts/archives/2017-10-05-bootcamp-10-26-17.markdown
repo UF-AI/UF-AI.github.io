@@ -12,7 +12,7 @@ thumb: bootthumb04.jpg
 
 # Summary
 
-For this bootcamp meeting, we delivered a brief overview of what Support Vector Machines are and how they are used. We proceeded to code up a demonstration leveraging scikit learn and matpllotlib ibraries to demonstrate how to fit an SVM to data to make classification predictions.
+For this bootcamp meeting, we delivered a brief overview of what Support Vector Machines are and how they are used. We proceeded to code up a demonstration leveraging scikit learn and matplotlib ibraries to demonstrate how to fit an SVM to data to make classification predictions.
 
 ## Slides/Materials
 
