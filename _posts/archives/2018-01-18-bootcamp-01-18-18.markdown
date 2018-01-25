@@ -1,0 +1,19 @@
+---
+layout: post
+title: "AWS Deep Learning"
+date:   2018-01-18 18:15:00
+author: Christian Marin
+categories:
+- archives
+- UFAI Bootcamp
+img: boot06.jpg
+thumb: bootthumb06.jpg
+---
+
+# Summary
+
+Welcome back from winter break! UFAI is kicking off the new year with a AWS Deep Learning tutorial we'll also be presenting at Swamp Hacks. Learn how to set up and run your code in Amazon's environment. After this, we'll be tackling the 2018 Data Science Bowl! Follow our Facebook page for more information.
+
+## Slides/Materials
+
+[AWS Deep Learning](https://docs.google.com/presentation/d/1mAPhiF1N1kpgqzTJgVG6aiUIIOk7cxsiCc737eph4Zo/edit?usp=sharing)
