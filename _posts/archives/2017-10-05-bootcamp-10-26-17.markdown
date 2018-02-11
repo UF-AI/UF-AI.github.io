@@ -16,6 +16,6 @@ For this bootcamp meeting, we delivered a brief overview of what Support Vector 
 
 ## Slides/Materials
 
-[Support Vector Machines](https://docs.google.com/presentation/d/1JefaMbFmBgTsH4Ti7WPPJzOOhT0yAFa5uoUxWsYNisM/edit#slide=id.g35f391192_00)
+[Support Vector Machines](https://drive.google.com/open?id=1JefaMbFmBgTsH4Ti7WPPJzOOhT0yAFa5uoUxWsYNisM)
 
-[Sample Code](https://github.com/UF-AI/Bootcamp/blob/master/SVM%2BCode.ipynb)
+[Sample Code](https://drive.google.com/open?id=1WJ9rQO2eAhC1Rnwy-1pxwK5r4wMt7xn1)

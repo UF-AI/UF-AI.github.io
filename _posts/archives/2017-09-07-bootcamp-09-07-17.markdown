@@ -16,6 +16,4 @@ For our first GBM and UFAI Bootcamp introduction, we presented our mission as a 
 
 ## Slides
 
-[UFAI Overview](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAAtJck-5a9-UtuiWYs7wvEXa/ufaiOverview.pdf?dl=0)
-
-[Types of AI Slides](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAA1Sh-9Xgehz0lbdp4R7wbEa/Types%20of%20AI.pdf?dl=0)
+[Types of AI Slides](https://docs.google.com/presentation/d/1AO1YGm2IDLuEJWn4ILiBrCMJFVm4W6aogesvwr6eDko/edit?usp=sharing)

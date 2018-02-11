@@ -16,6 +16,6 @@ In our second UFAI Bootcamp session, we delivered an overview of different types
 
 ## Slides
 
-[Overview of Machine Learning](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AAD8pY9At-OG-EkgKYDbo0nCa/Overview%20of%20ML.pdf?dl=0)
+[Overview of Machine Learning](https://drive.google.com/open?id=1NIc0oGDJX5BGc4xlyXGETE1dePL_CqWTm8LqoPe7Ov4)
 
-[Common Modern Problems](https://www.dropbox.com/sh/yc3f8zg7wyz5ueq/AADY1oFDnmBO-rAu_17cd_BCa/Common%20Modern%20Problems.pdf?dl=0)
+[Common Modern Problems](https://drive.google.com/open?id=12cZskNMSR5ShuUWCZW-Dmaid29-vf15BfyaJ6An32Tw)
