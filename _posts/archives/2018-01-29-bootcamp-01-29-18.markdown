@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Kaggle Data Science Bowl"
+date:   2018-01-29 18:15:00
+author: Christian Marin
+categories:
+- archives
+- Projects
+img: dsb.png
+thumb: thumbdsb.png
+---
+
+# Summary
+
+UFAI will be tackling the 2018 Data Science Bowl for the rest of the semester! Join us Mondays at 6:00pm in Larson Hall room 234 to collaborate and share strategies. Present your model to the club and receive access to our AWS account with free credits for training!
